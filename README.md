@@ -7,13 +7,13 @@
 
 backjun
 -------------
-> **URL: ** https://www.acmicpc.net/
+> URL: https://www.acmicpc.net/
 
 Hackerrank
 -------------
-> **URL: ** https://www.hackerrank.com/domains
+> URL: https://www.hackerrank.com/domains
 
 Leetcode
 -------------
-> **URL: ** https://leetcode.com/
+> URL: https://leetcode.com/
 
